@@ -1,4 +1,4 @@
-!https://github.com/hulihanapplications/NeonMidnight/blob/master/screenshot.png(Opal Theme - NeonMidnight)!
+!https://github.com/hulihanapplications/NeonMidnight/raw/master/screenshot.png(Opal Theme - NeonMidnight)!
 
 h1. Opal Theme - NeonMidnight
 
